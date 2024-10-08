@@ -1,6 +1,7 @@
 nginx
 minio/minio
 mysql:5.7
+mysql:8.0
 redis:4.0.10
 redis:6.0
 zookeeper:3.4
